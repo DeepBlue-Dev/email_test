@@ -1,0 +1,8 @@
+{
+	"server": {
+		"smtpServerUrl": "smtp.gmail.com",
+		"smtpServerPort": "465",
+		"smtpServerCredentials": {"email":"","password": ""}
+	}
+
+}
